@@ -1,0 +1,70 @@
+﻿query_id,query_text,language,correct_faq_id
+1,When does term begin?,en,1
+2,What is the semester start date?,en,1
+3,متى يبدأ الفصل الدراسي؟,ar,1
+4,ما هو تاريخ بداية الفصل؟,ar,1
+5,Quand commence le semestre ?,fr,1
+6,Quelle est la date de début du semestre ?,fr,1
+,,,
+7,How can I apply to the university?,en,2
+8,Where do I submit my application?,en,2
+9,كيف أقدم على الجامعة؟,ar,2
+10,أين أرسل طلب الالتحاق؟,ar,2
+11,Comment postuler à l'université ?,fr,2
+12,Où soumettre ma candidature ?,fr,2
+,,,
+13,What documents do I need to apply?,en,3
+14,Which papers are required for admission?,en,3
+15,ما هي المستندات المطلوبة للتقديم؟,ar,3
+16,ما هي الأوراق اللازمة للقبول؟,ar,3
+17,Quels documents sont nécessaires pour l'admission ?,fr,3
+18,Quels papiers sont requis ?,fr,3
+,,,
+19,How do I get housing?,en,5
+20,Where can I apply for accommodation?,en,5
+21,كيف أحصل على سكن جامعي؟,ar,5
+22,أين أقدم على السكن؟,ar,5
+23,Comment obtenir un logement étudiant ?,fr,5
+24,Où puis-je demander un logement ?,fr,5
+,,,
+25,How can I pay tuition?,en,8
+26,Where do I pay my fees?,en,8
+27,كيف أدفع الرسوم الدراسية؟,ar,8
+28,أين يمكنني دفع الرسوم؟,ar,8
+29,Comment payer les frais de scolarité ?,fr,8
+30,Où payer les frais ?,fr,8
+,,,
+31,Do international students need a visa?,en,11
+32,Is a student visa required?,en,11
+33,هل أحتاج إلى تأشيرة طالب؟,ar,11
+34,هل التأشيرة مطلوبة للدراسة؟,ar,11
+35,Ai-je besoin d’un visa étudiant ?,fr,11
+36,Le visa est-il obligatoire ?,fr,11
+,,,
+37,Where can I check my timetable?,en,14
+38,How do I see my class schedule?,en,14
+39,أين أجد الجدول الدراسي؟,ar,14
+40,كيف أرى جدول الحصص؟,ar,14
+41,Où voir mon emploi du temps ?,fr,14
+42,Comment consulter mon horaire ?,fr,14
+,,,
+43,When are exams scheduled?,en,18
+44,What are the exam dates?,en,18
+45,متى مواعيد الامتحانات؟,ar,18
+46,ما هي تواريخ الاختبارات؟,ar,18
+47,Quand sont les examens ?,fr,18
+48,Quelles sont les dates d’examen ?,fr,18
+,,,
+49,Where is the university library?,en,20
+50,How do I find the library?,en,20
+51,أين تقع المكتبة؟,ar,20
+52,كيف أجد المكتبة؟,ar,20
+53,Où se trouve la bibliothèque ?,fr,20
+54,Comment trouver la bibliothèque ?,fr,20
+,,,
+55,How do I reset my student password?,en,23
+56,My portal password does not work what should I do?,en,23
+57,كيف أعيد تعيين كلمة المرور؟,ar,23
+58,كلمة المرور لا تعمل ماذا أفعل؟,ar,23
+59,Comment réinitialiser mon mot de passe ?,fr,23
+60,Mon mot de passe ne fonctionne pas que faire ?,fr,23

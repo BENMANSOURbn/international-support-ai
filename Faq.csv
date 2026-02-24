@@ -1,0 +1,41 @@
+faq_id,question_en,answer_en,category
+1,When does the semester start?,The semester usually starts in September for the autumn intake.,academic
+2,How do I apply for admission?,You can apply through the university online application portal.,admissions
+3,What documents are required for admission?,Typically a passport transcripts and English proficiency proof are required.,admissions
+4,How long does the admission process take?,The admission process usually takes 2 to 6 weeks.,admissions
+5,How do I apply for student accommodation?,Apply through the university housing portal after receiving an offer.,accommodation
+6,Can I change my accommodation later?,Yes you can request a room change depending on availability.,accommodation
+7,Are utility bills included in accommodation fees?,Most university accommodations include basic utilities.,accommodation
+8,How do I pay my tuition fees?,Tuition fees can be paid via the student portal using card or bank transfer.,fees
+9,When is the tuition fee deadline?,The deadline is usually before the start of the semester.,fees
+10,Are there installment payment options?,Yes installment plans may be available upon request.,fees
+11,Do I need a student visa?,International students usually require a valid student visa.,visa
+12,Where can I get visa support?,Contact the international student support office for guidance.,visa
+13,What is a BRP card?,A BRP is a biometric residence permit issued to international students.,visa
+14,Where can I see my timetable?,Your timetable is available on the student portal.,timetable
+15,What if my classes overlap?,Contact your course administrator to resolve timetable clashes.,timetable
+16,How do I register for modules?,Module registration is completed through the student portal.,registration
+17,What happens if I miss registration?,Contact the academic office immediately for assistance.,registration
+18,When are exam dates announced?,Exam dates are usually published mid semester.,exams
+19,How do I apply for extenuating circumstances?,Submit the official form with supporting evidence.,exams
+20,Where is the library located?,The main library is located in the central campus building.,library
+21,How do I access online library resources?,Log in to the library website using your student credentials.,library
+22,How do I connect to campus WiFi?,Select the university WiFi network and log in with your student ID.,IT
+23,My student portal password is not working what should I do?,Use the password reset option or contact IT support.,IT
+24,How can I contact student support services?,You can contact them via email or visit the student services office.,support
+25,Are counseling services available?,Yes free counseling services are available for students.,support
+26,How do I apply for scholarships?,Scholarship applications are available on the university website.,scholarships
+27,When are scholarship results announced?,Scholarship results are typically announced before semester start.,scholarships
+28,How do I get my student ID card?,Student ID cards are issued after enrolment.,student_id
+29,I lost my student ID how do I replace it?,Request a replacement through the student portal and pay the fee if required.,student_id
+30,Where can I find part time job opportunities?,Check the university career portal and notice boards.,careers
+31,Does the university offer internship support?,Yes the career center provides internship guidance.,careers
+32,How do I join student clubs?,Join clubs through the student activities portal.,activities
+33,Are sports facilities available?,Yes sports facilities are available for all enrolled students.,activities
+34,How do I request academic transcripts?,Submit a transcript request form via the student portal.,academic
+35,How do I defer my studies?,Contact the admissions or academic office to apply for deferral.,academic
+36,What is the grading system?,The grading system is explained in the academic handbook.,academic
+37,How do I update my contact details?,Update your details through the student portal profile section.,account
+38,Can I change my course after enrollment?,Course changes may be possible with academic approval.,academic
+39,Where can I find campus maps?,Campus maps are available on the university website.,general
+40,How do I attend orientation sessions?,Orientation schedules are emailed before the semester begins.,general
