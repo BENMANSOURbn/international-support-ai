@@ -32,3 +32,32 @@ The system follows a retrieval-based pipeline:
 ---
 
 ## 📁 Project Structure
+
+
+multilingual_chatbot_project/
+│
+├── main.py # Prototype retrieval test
+├── evaluate.py # Full evaluation pipeline
+├── app.py # Streamlit chatbot interface
+├── check_counts.py # Data validation script
+├── plot_graphs.py # Accuracy graph generation
+├── plot_mrr.py # MRR graph generation
+│
+├── faq.csv # FAQ knowledge base
+├── test_queries.csv # Multilingual evaluation dataset
+│
+├── results/ # Evaluation outputs (CSV files)
+│
+├── requirements.txt # Dependencies
+└── README.md
+
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
